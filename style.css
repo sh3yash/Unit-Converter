@@ -1,0 +1,42 @@
+.container {
+	margin: 50px auto;
+	padding: 20px;
+	width: 400px;
+	background-color: aqua;
+	text-align: center;
+}
+
+h1 {
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+
+label {
+	display: inline-block;
+	width: 80px;
+	text-align: right;
+}
+
+input[type="number"], select {
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+}
+
+button {
+	padding: 10px;
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+input[type="text"] {
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+	background-color: #f2f2f2;
+	color: #333;
+	font-weight: bold;
+}
